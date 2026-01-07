@@ -1,0 +1,1 @@
+This site is based on Terapio 1.0.0 from htmlcodex.com. A license has been purchased for full access and author removal.
